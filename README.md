@@ -34,4 +34,4 @@ A simple Generative Adversarial Network (GAN) for synthesizing human faces using
 ## Author
 
 Project by **Ethan Posey**  
-Original coursework: CSC 351: Machine Learning
+Original coursework: CSC 351 – Machine Learning
