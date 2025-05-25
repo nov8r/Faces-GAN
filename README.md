@@ -30,3 +30,8 @@ A simple Generative Adversarial Network (GAN) for synthesizing human faces using
 - Dropout and batch normalization for stability
 - Saves training images every 10 epochs
 - Automatically creates a GIF to visualize progress over time
+
+## Author
+
+Project by **Ethan Posey**  
+Original coursework: CSC 351: Machine Learning
